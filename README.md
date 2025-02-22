@@ -148,7 +148,7 @@ The script is designed for learning, not for playing games automatically. You ne
      ```
    - Change it to match your test page. For example:
      ```javascript
-     // @match        file:///C:/Users/YourName/Desktop/test.html
+     // @match        https://www.delugerpg.com/map/overworld5
      ```
      - Replace `C:/Users/YourName/Desktop/test.html` with the actual path to your `test.html` file.
    - Save the script (Ctrl+S or File > Save).
