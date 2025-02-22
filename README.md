@@ -157,10 +157,10 @@ The script is designed for learning, not for playing games automatically. You ne
    - The script has placeholders (like `https://example.com/map/*` and `entities = ['example1', 'example2']`) to avoid game-specific automation.
    - Do not change these to match a real game
 
-
-#POKEMON FORMAT
 ---
-##Kanto Region :
+# POKEMON FORMAT
+---
+## Kanto Region :
 'bulbasaur', 'charmander', 'squirtle', 'caterpie', 'weedle', 'pidgey', 'rattata', 'spearow', 'ekans',  
 'pikachu', 'sandshrew', 'nidoran', 'nidoran', 'clefairy', 'vulpix', 'jigglypuff', 'zubat', 'oddish', 'paras', 'venonat',  
 'diglett', 'meowth', 'psyduck', 'mankey', 'growlithe', 'poliwag', 'abra', 'machop', 'bellsprout', 'tentacool', 'geodude',  
